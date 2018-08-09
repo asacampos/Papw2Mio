@@ -1,1 +1,9 @@
 Tarea 1
+
+Diferencias entre Git y Sourcetree
+
+Git: Con git haces el repositorio por medio de codio en la consola de windows, podria decirse que es un poco más rapido al momento de hacer los commits
+
+Sourcetree: En sourcetree haces todo de manera grafica, sin necesidad de introducir codigo en la consola de windows, pero es un poco más lento, porque se tarda en ciertos aspectos
+
+Opinion: En lo personal use Git porque me gusto más su interactividad con el usuario, los comandos no son tan complicados y es mas entretenido
