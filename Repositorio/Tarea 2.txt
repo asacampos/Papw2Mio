@@ -1,0 +1,2 @@
+Para poder crear un repositorio con una rama adicional en Git
+se tiene que entrar al comando de Windows y dentro de la carpeta donde tenemos nuestro repositorio le decimos que cree una rama con el comando "git checkout -b <rama>"
